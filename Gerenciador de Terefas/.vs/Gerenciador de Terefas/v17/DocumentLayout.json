@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\franc\\source\\repos\\Gerenciador de Terefas 1\\Gerenciador de Terefas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB826B62-9854-4A6E-B68D-9545110C236D}|Gerenciador de Terefas\\Gerenciador de Terefas.csproj|c:\\users\\franc\\source\\repos\\gerenciador de terefas 1\\gerenciador de terefas\\gerenciador de terefas\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{EB826B62-9854-4A6E-B68D-9545110C236D}|Gerenciador de Terefas\\Gerenciador de Terefas.csproj|solutionrelative:gerenciador de terefas\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB826B62-9854-4A6E-B68D-9545110C236D}|Gerenciador de Terefas\\Gerenciador de Terefas.csproj|c:\\users\\franc\\source\\repos\\gerenciador de terefas 1\\gerenciador de terefas\\gerenciador de terefas\\interfaces\\igerenciadortarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB826B62-9854-4A6E-B68D-9545110C236D}|Gerenciador de Terefas\\Gerenciador de Terefas.csproj|solutionrelative:gerenciador de terefas\\interfaces\\igerenciadortarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB826B62-9854-4A6E-B68D-9545110C236D}|Gerenciador de Terefas\\Gerenciador de Terefas.csproj|c:\\users\\franc\\source\\repos\\gerenciador de terefas 1\\gerenciador de terefas\\gerenciador de terefas\\services\\gerenciadortarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB826B62-9854-4A6E-B68D-9545110C236D}|Gerenciador de Terefas\\Gerenciador de Terefas.csproj|solutionrelative:gerenciador de terefas\\services\\gerenciadortarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB826B62-9854-4A6E-B68D-9545110C236D}|Gerenciador de Terefas\\Gerenciador de Terefas.csproj|c:\\users\\franc\\source\\repos\\gerenciador de terefas 1\\gerenciador de terefas\\gerenciador de terefas\\interfaces\\iprinttarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB826B62-9854-4A6E-B68D-9545110C236D}|Gerenciador de Terefas\\Gerenciador de Terefas.csproj|solutionrelative:gerenciador de terefas\\interfaces\\iprinttarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB826B62-9854-4A6E-B68D-9545110C236D}|Gerenciador de Terefas\\Gerenciador de Terefas.csproj|c:\\users\\franc\\source\\repos\\gerenciador de terefas 1\\gerenciador de terefas\\gerenciador de terefas\\interfaces\\iprint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB826B62-9854-4A6E-B68D-9545110C236D}|Gerenciador de Terefas\\Gerenciador de Terefas.csproj|solutionrelative:gerenciador de terefas\\interfaces\\iprint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB826B62-9854-4A6E-B68D-9545110C236D}|Gerenciador de Terefas\\Gerenciador de Terefas.csproj|c:\\users\\franc\\source\\repos\\gerenciador de terefas 1\\gerenciador de terefas\\gerenciador de terefas\\services\\printtarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB826B62-9854-4A6E-B68D-9545110C236D}|Gerenciador de Terefas\\Gerenciador de Terefas.csproj|solutionrelative:gerenciador de terefas\\services\\printtarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB826B62-9854-4A6E-B68D-9545110C236D}|Gerenciador de Terefas\\Gerenciador de Terefas.csproj|c:\\users\\franc\\source\\repos\\gerenciador de terefas 1\\gerenciador de terefas\\gerenciador de terefas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB826B62-9854-4A6E-B68D-9545110C236D}|Gerenciador de Terefas\\Gerenciador de Terefas.csproj|solutionrelative:gerenciador de terefas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB826B62-9854-4A6E-B68D-9545110C236D}|Gerenciador de Terefas\\Gerenciador de Terefas.csproj|c:\\users\\franc\\source\\repos\\gerenciador de terefas 1\\gerenciador de terefas\\gerenciador de terefas\\interfaces\\icompleto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB826B62-9854-4A6E-B68D-9545110C236D}|Gerenciador de Terefas\\Gerenciador de Terefas.csproj|solutionrelative:gerenciador de terefas\\interfaces\\icompleto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB826B62-9854-4A6E-B68D-9545110C236D}|Gerenciador de Terefas\\Gerenciador de Terefas.csproj|c:\\users\\franc\\source\\repos\\gerenciador de terefas 1\\gerenciador de terefas\\gerenciador de terefas\\entity\\tarefas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB826B62-9854-4A6E-B68D-9545110C236D}|Gerenciador de Terefas\\Gerenciador de Terefas.csproj|solutionrelative:gerenciador de terefas\\entity\\tarefas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\franc\\source\\repos\\Gerenciador de Terefas 1\\Gerenciador de Terefas\\Gerenciador de Terefas\\README.md",
+              "RelativeDocumentMoniker": "Gerenciador de Terefas\\README.md",
+              "ToolTip": "C:\\Users\\franc\\source\\repos\\Gerenciador de Terefas 1\\Gerenciador de Terefas\\Gerenciador de Terefas\\README.md",
+              "RelativeToolTip": "Gerenciador de Terefas\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-04-12T01:28:56.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PrintTarefa.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\source\\repos\\Gerenciador de Terefas 1\\Gerenciador de Terefas\\Gerenciador de Terefas\\Services\\PrintTarefa.cs",
+              "RelativeDocumentMoniker": "Gerenciador de Terefas\\Services\\PrintTarefa.cs",
+              "ToolTip": "C:\\Users\\franc\\source\\repos\\Gerenciador de Terefas 1\\Gerenciador de Terefas\\Gerenciador de Terefas\\Services\\PrintTarefa.cs",
+              "RelativeToolTip": "Gerenciador de Terefas\\Services\\PrintTarefa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T23:42:04.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICompleto.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\source\\repos\\Gerenciador de Terefas 1\\Gerenciador de Terefas\\Gerenciador de Terefas\\Interfaces\\ICompleto.cs",
+              "RelativeDocumentMoniker": "Gerenciador de Terefas\\Interfaces\\ICompleto.cs",
+              "ToolTip": "C:\\Users\\franc\\source\\repos\\Gerenciador de Terefas 1\\Gerenciador de Terefas\\Gerenciador de Terefas\\Interfaces\\ICompleto.cs",
+              "RelativeToolTip": "Gerenciador de Terefas\\Interfaces\\ICompleto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T23:35:45.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GerenciadorTarefa.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\source\\repos\\Gerenciador de Terefas 1\\Gerenciador de Terefas\\Gerenciador de Terefas\\Services\\GerenciadorTarefa.cs",
+              "RelativeDocumentMoniker": "Gerenciador de Terefas\\Services\\GerenciadorTarefa.cs",
+              "ToolTip": "C:\\Users\\franc\\source\\repos\\Gerenciador de Terefas 1\\Gerenciador de Terefas\\Gerenciador de Terefas\\Services\\GerenciadorTarefa.cs",
+              "RelativeToolTip": "Gerenciador de Terefas\\Services\\GerenciadorTarefa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T23:36:43.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\source\\repos\\Gerenciador de Terefas 1\\Gerenciador de Terefas\\Gerenciador de Terefas\\Program.cs",
+              "RelativeDocumentMoniker": "Gerenciador de Terefas\\Program.cs",
+              "ToolTip": "C:\\Users\\franc\\source\\repos\\Gerenciador de Terefas 1\\Gerenciador de Terefas\\Gerenciador de Terefas\\Program.cs",
+              "RelativeToolTip": "Gerenciador de Terefas\\Program.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAcwEYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T23:35:53.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Tarefas.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\source\\repos\\Gerenciador de Terefas 1\\Gerenciador de Terefas\\Gerenciador de Terefas\\Entity\\Tarefas.cs",
+              "RelativeDocumentMoniker": "Gerenciador de Terefas\\Entity\\Tarefas.cs",
+              "ToolTip": "C:\\Users\\franc\\source\\repos\\Gerenciador de Terefas 1\\Gerenciador de Terefas\\Gerenciador de Terefas\\Entity\\Tarefas.cs",
+              "RelativeToolTip": "Gerenciador de Terefas\\Entity\\Tarefas.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T23:35:47.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IGerenciadorTarefa.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\source\\repos\\Gerenciador de Terefas 1\\Gerenciador de Terefas\\Gerenciador de Terefas\\Interfaces\\IGerenciadorTarefa.cs",
+              "RelativeDocumentMoniker": "Gerenciador de Terefas\\Interfaces\\IGerenciadorTarefa.cs",
+              "ToolTip": "C:\\Users\\franc\\source\\repos\\Gerenciador de Terefas 1\\Gerenciador de Terefas\\Gerenciador de Terefas\\Interfaces\\IGerenciadorTarefa.cs",
+              "RelativeToolTip": "Gerenciador de Terefas\\Interfaces\\IGerenciadorTarefa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T23:35:41.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPrintTarefa.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\source\\repos\\Gerenciador de Terefas 1\\Gerenciador de Terefas\\Gerenciador de Terefas\\Interfaces\\IPrintTarefa.cs",
+              "RelativeDocumentMoniker": "Gerenciador de Terefas\\Interfaces\\IPrintTarefa.cs",
+              "ToolTip": "C:\\Users\\franc\\source\\repos\\Gerenciador de Terefas 1\\Gerenciador de Terefas\\Gerenciador de Terefas\\Interfaces\\IPrintTarefa.cs",
+              "RelativeToolTip": "Gerenciador de Terefas\\Interfaces\\IPrintTarefa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T23:35:40.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPrint.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\source\\repos\\Gerenciador de Terefas 1\\Gerenciador de Terefas\\Gerenciador de Terefas\\Interfaces\\IPrint.cs",
+              "RelativeDocumentMoniker": "Gerenciador de Terefas\\Interfaces\\IPrint.cs",
+              "ToolTip": "C:\\Users\\franc\\source\\repos\\Gerenciador de Terefas 1\\Gerenciador de Terefas\\Gerenciador de Terefas\\Interfaces\\IPrint.cs",
+              "RelativeToolTip": "Gerenciador de Terefas\\Interfaces\\IPrint.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T23:35:38.319Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
